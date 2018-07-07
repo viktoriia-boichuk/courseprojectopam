@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1479568146 source:e:\users\victoria\documents\КЕП\ОПАМ\Курсовий\courseproject\functions.cpp
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<malloc.h>
+	<ctype.h>
+	"functions.h"
+
+1479568146 e:\users\victoria\documents\КЕП\ОПАМ\Курсовий\courseproject\functions.h
+
+1479568146 source:e:\users\victoria\documents\КЕП\ОПАМ\Курсовий\courseproject\main.cpp
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"functions.h"
+
+1479834053 source:e:\users\victoria\documents\КЕП\ОПАМ\Курсовий\Курсовий проект\courseproject\functions.cpp
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<malloc.h>
+	<ctype.h>
+	"functions.h"
+
+1479837666 e:\users\victoria\documents\КЕП\ОПАМ\Курсовий\Курсовий проект\courseproject\functions.h
+
+1479834005 source:e:\users\victoria\documents\КЕП\ОПАМ\Курсовий\Курсовий проект\courseproject\main.cpp
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"functions.h"
+
+1479744484 source:c:\users\volodya\desktop\courseproject копія\functions.cpp
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<malloc.h>
+	<ctype.h>
+	"functions.h"
+
+1479743802 c:\users\volodya\desktop\courseproject копія\functions.h
+
+1479689933 source:c:\users\volodya\desktop\courseproject копія\main.cpp
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"functions.h"
+
